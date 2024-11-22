@@ -1,0 +1,6 @@
+{
+    "files.autoSaveWhenNoErrors": true,
+    "files.autoSaveWorkspaceFilesOnly": true,
+    "editor.codeActions.triggerOnFocusChange": true,
+    "editor.formatOnSave": true
+}
